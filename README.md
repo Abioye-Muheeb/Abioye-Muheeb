@@ -15,10 +15,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Abioye-Muheeb/Abioye-Muheeb/output/snake.svg" alt="Snake animation" />
-
-###
